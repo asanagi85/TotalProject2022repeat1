@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dd65235-0089-4087-8438-efbb8c84e80b" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TotalProject_2022 repeat1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gui/EmployeeUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gui/UI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/EmployeeManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/EmployeeMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vo/Employee.java" afterDir="false" />
+    <list default="true" id="9dd65235-0089-4087-8438-efbb8c84e80b" name="변경" comment="repeat1 complete 2022">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +36,11 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "프로젝트",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RunManager">
@@ -80,6 +72,14 @@
       <option name="presentableId" value="Default" />
       <updated>1661136114628</updated>
     </task>
+    <task id="LOCAL-00001" summary="repeat1 complete 2022">
+      <created>1661148689597</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661148689597</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,6 +92,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="repeat1 complete 2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="repeat1 complete 2022" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
